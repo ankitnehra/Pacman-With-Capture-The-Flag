@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=a\ g\ m\ color
+comment0.target=cghost(java.awt.Window,\ java.awt.Graphics,\ cmaze,\ java.awt.Color)
+comment1.params=initialPosition\ round
+comment1.target=void\ start(int,\ int)
+comment2.params=
+comment2.target=void\ draw()
+comment3.params=iPacX\ iPacY\ iPacDir
+comment3.target=void\ move(int,\ int,\ int)
+comment4.params=
+comment4.target=int\ INSelect()
+comment5.params=iPacX\ iPacY\ iPacDir
+comment5.target=int\ OUTSelect(int,\ int,\ int)
+comment6.params=
+comment6.target=void\ blind()
+comment7.params=
+comment7.target=int\ EYESelect()
+comment8.params=iPacX\ iPacY\ iPacDir
+comment8.target=int\ BLINDSelect(int,\ int,\ int)
+comment9.params=iPacX\ iPacY
+comment9.target=int\ testCollision(int,\ int)
+numComments=10

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=a\ g
+comment0.target=cmaze(java.awt.Window,\ java.awt.Graphics)
+comment1.params=tmpDot\ f
+comment1.target=void\ start(cpowerdot,\ cflag)
+comment2.params=tmpDot
+comment2.target=void\ newPowerDots(cpowerdot)
+comment3.params=
+comment3.target=void\ draw()
+comment4.params=
+comment4.target=void\ drawDots()
+comment5.params=
+comment5.target=void\ createImage()
+comment6.params=icol\ iRow
+comment6.target=void\ DrawDot(int,\ int)
+comment7.params=g
+comment7.target=void\ DrawWall(java.awt.Graphics)
+comment8.params=g\ col\ row\ iDir
+comment8.target=void\ DrawBoundary(java.awt.Graphics,\ int,\ int,\ int)
+numComments=9

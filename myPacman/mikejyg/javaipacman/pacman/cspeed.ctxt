@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=cspeed()
+comment1.params=s\ f
+comment1.target=void\ start(int,\ int)
+comment2.params=
+comment2.target=int\ isMove()
+numComments=3

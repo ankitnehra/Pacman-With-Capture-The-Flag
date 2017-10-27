@@ -1,0 +1,17 @@
+#BlueJ package file
+objectbench.height=75
+objectbench.width=656
+package.editor.height=399
+package.editor.width=558
+package.editor.x=50
+package.editor.y=50
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+target1.height=62
+target1.name=javaipacman
+target1.type=PackageTarget
+target1.width=100
+target1.x=160
+target1.y=10

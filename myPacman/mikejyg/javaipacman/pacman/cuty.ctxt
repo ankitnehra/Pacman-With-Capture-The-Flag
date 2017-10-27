@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=iOdds
+comment0.target=int\ RandDo(int)
+comment1.params=iTotal
+comment1.target=int\ RandSelect(int)
+comment2.params=iD
+comment2.target=int\ IntSign(int)
+numComments=3

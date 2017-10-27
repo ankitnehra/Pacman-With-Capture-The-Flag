@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=img
+comment0.target=void\ drawDot(java.awt.Image)
+comment1.params=img
+comment1.target=void\ drawPowerDot(java.awt.Image)
+comment2.params=img\ dir\ step
+comment2.target=void\ drawPac(java.awt.Image,\ int,\ int)
+comment3.params=img\ number\ color
+comment3.target=void\ drawGhost(java.awt.Image,\ int,\ java.awt.Color)
+comment4.params=img
+comment4.target=void\ drawFlag(java.awt.Image)
+numComments=5

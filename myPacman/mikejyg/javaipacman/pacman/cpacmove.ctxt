@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=pac\ ghost\ maze
+comment0.target=cpacmove(cpac,\ cghost[],\ cmaze)
+comment1.params=
+comment1.target=int\ GetNextDir()
+comment2.params=
+comment2.target=void\ AddGhostScore()
+comment3.params=
+comment3.target=void\ AddDotScore()
+comment4.params=
+comment4.target=void\ AddPowerDotScore()
+numComments=5

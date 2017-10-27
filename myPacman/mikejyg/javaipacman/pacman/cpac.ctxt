@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=a\ g\ m\ p\ f
+comment0.target=cpac(java.awt.Window,\ java.awt.Graphics,\ cmaze,\ cpowerdot,\ cflag)
+comment1.params=
+comment1.target=void\ start()
+comment2.params=
+comment2.target=void\ draw()
+comment3.params=iNextDir
+comment3.target=int\ move(int)
+comment4.params=iRow\ icol
+comment4.target=boolean\ mazeOK(int,\ int)
+comment5.params=
+comment5.target=boolean\ hasFlag()
+numComments=6

@@ -1,0 +1,23 @@
+#BlueJ package file
+objectbench.height=76
+objectbench.width=656
+package.editor.height=398
+package.editor.width=558
+package.editor.x=893
+package.editor.y=155
+package.numDependencies=0
+package.numTargets=2
+package.showExtends=true
+package.showUses=true
+target1.height=62
+target1.name=wrapper
+target1.type=PackageTarget
+target1.width=80
+target1.x=10
+target1.y=90
+target2.height=62
+target2.name=pacman
+target2.type=PackageTarget
+target2.width=80
+target2.x=160
+target2.y=10
